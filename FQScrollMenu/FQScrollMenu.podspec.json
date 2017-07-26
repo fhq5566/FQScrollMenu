@@ -1,10 +1,8 @@
 {
   "name": "FQScrollMenu",
   "version": "1.0.0",
-  "summary": "FQScrollMenu是一个头部和内容可控制和可自定义的滚动菜单，满足部分开
->发者使用的插件。",
-  "description": "FQScrollMenu是一个头部和内容可控制和可自定义的滚动菜单，满足部
-分开>发者使用的插件。",
+  "summary": "FQScrollMenu是一个头部和内容可控制和可自定义的滚动菜单，满足部分开发者使用的插件。",
+  "description": "FQScrollMenu是一个头部和内容可控制和可自定义的滚动菜单，满足部分开发者使用的插件。",
   "homepage": "https://github.com/fhq5566/FQScrollMenu.git",
   "license": "MIT",
   "authors": "FQ",
