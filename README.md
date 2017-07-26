@@ -2,7 +2,8 @@
     * 头部支持可滚动和不可滚动，支持平分和按钮大小宽度  
     * 内容支持可滚动和不可滚动  
     * 父`FQMenuButton`支持继承，提供了两个子类(`FQTitleButton`，`FQBtmLineButton`)
-    * FQMenuButton支持有图标，支持自定义操作。   
+    * FQMenuButton支持有图标，支持自定义操作。
+    * pod FQScrollMenu  
 ` 下划线效果图：`                                    `文字和图标效果图：`
 <br>
  ![image](https://github.com/fhq5566/FQIMG/blob/master/FQScrollMenu/FQScrollMenuGif1.gif)
