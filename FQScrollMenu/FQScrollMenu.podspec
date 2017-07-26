@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|  
   s.name     = 'FQScrollMenu'  
-  s.version  = '1.0.0'  
+  s.version  = '1.0.1'  
   s.license  = 'MIT'  
   s.summary  = 'FQScrollMenu是一个头部和内容可控制和可自定义的滚动菜单，满足部分开发者使用的插件。'  
   s.homepage = 'https://github.com/fhq5566/FQScrollMenu'  
