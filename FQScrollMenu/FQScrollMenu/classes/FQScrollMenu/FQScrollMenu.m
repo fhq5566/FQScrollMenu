@@ -7,7 +7,7 @@
 //  菜单的View
 
 #import "FQScrollMenu.h"
-#import "Masonry.h"
+#import "HeaderFiles.h"
 
 @interface FQButtonColorState : NSObject
 @property(nonatomic, strong) UIColor *color;
@@ -23,7 +23,6 @@
 }
 @end
 
-#define SCREEN_WIDTH [UIScreen mainScreen].bounds.size.width
 @interface FQScrollMenu ()<UIScrollViewDelegate>
 //滚动视图头部
 @property(nonatomic, weak) UIScrollView *headScrollView;

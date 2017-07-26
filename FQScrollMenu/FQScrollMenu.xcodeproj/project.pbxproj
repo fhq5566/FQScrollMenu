@@ -47,6 +47,7 @@
 		E95739971F273CA100757F94 /* YQViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YQViewController.m; sourceTree = "<group>"; };
 		E95739A91F273E3700757F94 /* UIView+FQExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+FQExtension.h"; sourceTree = "<group>"; };
 		E95739AA1F273E3700757F94 /* UIView+FQExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+FQExtension.m"; sourceTree = "<group>"; };
+		E95739D01F28460400757F94 /* HeaderFiles.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HeaderFiles.h; sourceTree = "<group>"; };
 		EFABB7F76D0C40AA39080F12 /* Pods_FQScrollMenu.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FQScrollMenu.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -132,6 +133,7 @@
 		E95739891F273CA100757F94 /* FQScrollMenu */ = {
 			isa = PBXGroup;
 			children = (
+				E95739CF1F2845F300757F94 /* Other */,
 				E95739A81F273E3000757F94 /* Category */,
 				E957398A1F273CA100757F94 /* Buttons */,
 				E957398F1F273CA100757F94 /* FQMenuButton.h */,
@@ -171,6 +173,14 @@
 				E95739AA1F273E3700757F94 /* UIView+FQExtension.m */,
 			);
 			path = Category;
+			sourceTree = "<group>";
+		};
+		E95739CF1F2845F300757F94 /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				E95739D01F28460400757F94 /* HeaderFiles.h */,
+			);
+			path = Other;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
