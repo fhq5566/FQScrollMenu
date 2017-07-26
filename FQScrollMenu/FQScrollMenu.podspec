@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.author   = { 'FQ' => 'fhq5566@126.com' }  
   s.source   = { :git => 'https://github.com/fhq5566/FQScrollMenu.git', :tag => '1.0.6' }  
   s.platform = :ios, "8.0"
-  s.source_files = 'FQScrollMenu/classes/FQScrollMenu/**/*.{h,m}'    
+  s.source_files = 'classes/FQScrollMenu/**/*.{h,m}'    
   s.framework = 'UIKit'  
   
   s.requires_arc = true     
