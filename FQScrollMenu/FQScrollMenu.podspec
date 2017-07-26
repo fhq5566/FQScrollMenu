@@ -11,6 +11,7 @@ Pod::Spec.new do |s|
   s.framework = 'UIKit'  
   
   s.requires_arc = true     
-
+  s.public_header_files = 'FQScrollMenu/FQScrollMenu/classes/FQScrollMenu/Other/HeaderFiles.h'
+  s.source_files = 'FQScrollMenu/FQScrollMenu/classes/FQScrollMenu/Other/HeaderFiles.h' 
   s.dependency "Masonry"
 end  
